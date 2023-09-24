@@ -9,7 +9,7 @@
 
 <details><summary><h3>Trophies 🏆</h3></summary>
   
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=KartikRajofficial&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://kartikrajofficial.com)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=KartikRajOfficial)](https://github.com/KartikRajOfficial/github-profile-trophy)
 
 </details>
 
