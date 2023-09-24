@@ -3,7 +3,7 @@
 ---
 <details><summary><h3>Profile Hits 🥷🏻</h3></summary>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%KartikRajOfficial&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://t.me/KartikRajofficial)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKartikRajOfficial&count_bg=%2393A5EC&title_bg=%237B0C0C&icon=dependabot.svg&icon_color=%23E4EBF0&title=hits&edge_flat=false)](KartikRajOfficial.github.io)
 
 </details>
 
