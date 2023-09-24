@@ -15,7 +15,7 @@
 
 <details><summary><h3>Github Stats 📊</h3></summary>
 
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=KartikRajofficial&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title=Anand's+Github+Stats)](https://kartikrajofficial.com)
+  [![My github stats](https://github-readme-stats.vercel.app/api?username=KartikRajofficial&count_private=true&show_icons=true&theme=radical&include_all_commits=true&custom_title='s+Github+Stats)](https://t.me/kartikrajofficial)
 
 </details>
 
